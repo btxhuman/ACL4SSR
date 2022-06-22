@@ -1,4 +1,5 @@
 # windows11 WIFI
+# reference: https://github.com/vernesong/OpenClash/issues/1839
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,fei.com
